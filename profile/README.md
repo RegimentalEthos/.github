@@ -4,6 +4,8 @@
 
 ---
 
+<img src="../images/RegimentalEthos-Logo.png" />
+
 ## About
 
 **Regimental Ethos** is a digital historical research initiative dedicated to reconstructing and publishing structured military profiles of Canadian servicemen who served during:
