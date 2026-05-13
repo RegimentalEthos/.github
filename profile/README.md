@@ -78,7 +78,8 @@ Typical repositories may contain:
         sources/
 
 /units/
-    ppcli/
+    royal-rifles-canada/
+    royal-canadian-regiment/
     black-watch/
     royal-22e-regiment/
 
