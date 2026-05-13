@@ -4,7 +4,7 @@
 
 ---
 
-<img src="../images/RegimentalEthos-Logo.png" />
+<img src="../images/RegimentalEthos-Logo.png" width="800"/>
 
 ## About
 
