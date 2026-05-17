@@ -72,14 +72,14 @@ At **Regimental Ethos**, we undertake careful historical research into the milit
 
 Should you wish to inquire about our research process, discuss a prospective commemorative project, or request further information, correspondence is welcomed.
 
-**Julio Cesar Torres**
-Founder, Regimental Ethos
+***Julio Cesar Torres**
+Founder, Regimental Ethos*
 
 Québec, QC, Canada
 
 Email: juliozohar@gmail.com
 Telephone: 581-307-7882
 
-Please include, where possible, the soldier’s full name, date of birth and any known details of service, regiment, or dates, so that an initial assessment may be undertaken with due care.
+Please include, where possible, the soldier’s full name, date and place of birth and any known details of service, regiment, or dates, so that an initial assessment may be undertaken with due care.
 
 *Honouring service through research. Preserving memory through record.*
