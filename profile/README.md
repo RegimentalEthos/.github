@@ -64,26 +64,3 @@ The goal is documentation and historical preservation — not myth-making.
 
 ---
 
-## Repository Structure
-
-Typical repositories may contain:
-
-```text
-/soldiers/
-    john-doe-1894/
-        profile.md
-        service-records/
-        photographs/
-        maps/
-        sources/
-
-/units/
-    royal-rifles-canada/
-    royal-canadian-regiment/
-    black-watch/
-    royal-22e-regiment/
-
-/docs/
-    methodology/
-    citation-standards/
-    archival-guides/
