@@ -25,7 +25,7 @@ The objective is not merely to list names, but to restore historical context, un
 
 ## What We Publish
 
-Each profile repository may include:
+Each profile repository may include, whenever available:
 
 - Military service summaries
 - Unit histories
