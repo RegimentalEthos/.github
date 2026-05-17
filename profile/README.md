@@ -64,3 +64,22 @@ The goal is documentation and historical preservation — not myth-making.
 
 ---
 
+## Inquiries & Correspondence
+
+Every life of service leaves a record — but not every record tells a story.
+
+At **Regimental Ethos**, we undertake careful historical research into the military lives and service of Canadian soldiers of the First and Second World Wars, assembling archival findings into memorial volumes intended to preserve family history with accuracy, dignity, and permanence.
+
+Should you wish to inquire about our research process, discuss a prospective commemorative project, or request further information, correspondence is welcomed.
+
+**Julio Cesar Torres**
+Founder, Regimental Ethos
+
+Québec, QC, Canada
+
+Email: juliozohar@gmail.com
+Telephone: 581-307-7882
+
+Please include, where possible, the soldier’s full name, date of birth and any known details of service, regiment, or dates, so that an initial assessment may be undertaken with due care.
+
+*Honouring service through research. Preserving memory through record.*
